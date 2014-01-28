@@ -421,3 +421,16 @@ Small Device Styles
   }
 
 }
+
+
+/*******************************************************************************
+Custom
+*******************************************************************************/
+#rehab_banner{
+  background: url('../images/rehab.png') #000000 no-repeat;
+  width: 500px;
+  height:125px;
+  margin:10px;
+  margin-left: auto;
+  margin-right: auto;
+}
