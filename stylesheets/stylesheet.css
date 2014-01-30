@@ -446,6 +446,7 @@ display:block;
  margin-right: auto;
 }
 #landsting_logo{
+	display:block;
   background: url('../images/landstinglogo.png') no-repeat;
   width: 249px;
   height: 59px;
