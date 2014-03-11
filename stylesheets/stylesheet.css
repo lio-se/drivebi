@@ -435,7 +435,7 @@ display:block;
   margin-left: auto;
   margin-right: auto;
 }
-#drivebi_timeline{
+/*#drivebi_timeline{
 display:block;
  background: url('../images/innov-timeline.png') no-repeat; 
  background-size:contain;
@@ -444,7 +444,7 @@ display:block;
  margin:10px;
  margin-left: auto;
  margin-right: auto;
-}
+}*/
 #landsting_logo{
 	display:block;
   background: url('../images/landstinglogo.png') no-repeat;
